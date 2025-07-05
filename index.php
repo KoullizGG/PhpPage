@@ -57,7 +57,7 @@ function isActiveForm($formName, $activeForm) {
                     <option value="admin">Admin</option>
                 </select>
                 <button type="submit" name="register">Register</button>
-                <p class="toggle">Already have an account? <a href="#" onclick="showForm('login-form')">Register</a></p>
+                <p class="toggle">Already have an account? <a href="#" onclick="showForm('login-form')">Login</a></p>
             </form>
         </div>
 
